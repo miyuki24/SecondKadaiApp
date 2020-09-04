@@ -13,6 +13,7 @@
 		7233FE3B25010CDC00D2EE88 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7233FE3925010CDC00D2EE88 /* Main.storyboard */; };
 		7233FE3D25010CDE00D2EE88 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7233FE3C25010CDE00D2EE88 /* Assets.xcassets */; };
 		7233FE4025010CDE00D2EE88 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7233FE3E25010CDE00D2EE88 /* LaunchScreen.storyboard */; };
+		7233FE482501195900D2EE88 /* ResultViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7233FE472501195900D2EE88 /* ResultViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		7233FE3C25010CDE00D2EE88 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7233FE3F25010CDE00D2EE88 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		7233FE4125010CDE00D2EE88 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7233FE472501195900D2EE88 /* ResultViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResultViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				7233FE3325010CDC00D2EE88 /* AppDelegate.swift */,
 				7233FE3525010CDC00D2EE88 /* SceneDelegate.swift */,
 				7233FE3725010CDC00D2EE88 /* ViewController.swift */,
+				7233FE472501195900D2EE88 /* ResultViewController.swift */,
 				7233FE3925010CDC00D2EE88 /* Main.storyboard */,
 				7233FE3C25010CDE00D2EE88 /* Assets.xcassets */,
 				7233FE3E25010CDE00D2EE88 /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 				7233FE3825010CDC00D2EE88 /* ViewController.swift in Sources */,
 				7233FE3425010CDC00D2EE88 /* AppDelegate.swift in Sources */,
 				7233FE3625010CDC00D2EE88 /* SceneDelegate.swift in Sources */,
+				7233FE482501195900D2EE88 /* ResultViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
